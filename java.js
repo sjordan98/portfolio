@@ -1,1 +1,1 @@
-doucment.getElementByID("demo").innerHTML="stepg";
+doucment.getElementById("demo").innerHTML="stepg";

@@ -1,7 +1,7 @@
 
 
 document.getElementById("demo").innerHTML = 5 + 6;
-document.createElement("BUTTON").innerhtml="steph";
+document.createElement("BUTTON").innerHTML="steph";
 
 function myFunction(){
   document.getElementByID("questionparagraph").innerHTML = "question1";

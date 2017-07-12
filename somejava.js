@@ -1,4 +1,4 @@
-<script>
+
 
 document.getElementById("demo").innerHTML = 5 + 6;
 
@@ -8,4 +8,4 @@ function myFunction(){
   document.getElementByID("button2").innerHTML="option2";
 }
 
-</script>
+
